@@ -1,7 +1,7 @@
 https://floridalottery.com/
 
 Webscrape Florida Lottery Scratch Tickets
-Data
+Data: 
 For Entertainment Purposes Ony
 
 Uses Selenium
