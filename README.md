@@ -21,9 +21,6 @@ Note 2: Florida frequently updates their pages. If no output and get error stack
 Double-check the selectors being used to locate the elements. Make sure they accurately target the desired elements on the page.
 Use browser developer tools to inspect the HTML structure and ensure the elements you're trying to access are present and have the correct attributes.
 
-
-
-
 Error processing
 Stacktrace:
 	GetHandleVerifier [0x00007FF62C8AB125+29573]
